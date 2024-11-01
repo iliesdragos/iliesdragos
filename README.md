@@ -2,7 +2,7 @@
 
 ![Banner](image.png)
 
-I am a first-year master's student in **Business Modeling and Distributed Computing** at **Babeș-Bolyai University** (FSEGA), with a bachelor's degree in **Economic Informatics**. Passionate about combining technology with business insights, I leverage my programming and data analysis skills to develop innovative solutions. As a **Software Engineer** and **Data Analyst**, I enjoy collaborating with teams and continuously learning to improve. My ambition and commitment to excellence make me a dedicated contributor in any setting. I am proactive in seeking feedback to enhance my work.
+I am a first-year master's student in **Business Modeling and Distributed Computing** at **Babeș-Bolyai University** (FSEGA), with a bachelor's degree in **Informatics and Economics**. Passionate about combining technology with business insights, I leverage my programming and data analysis skills to develop innovative solutions. As a **Software Engineer** and **Data Analyst**, I enjoy collaborating with teams and continuously learning to improve. My ambition and commitment to excellence make me a dedicated contributor in any setting. I am proactive in seeking feedback to enhance my work.
 
 ## 🛠 Programming Languages
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
